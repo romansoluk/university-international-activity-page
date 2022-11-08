@@ -1,2 +1,1 @@
-# university_international_activity_page
-This repository holds data for University International Activity page prohect
+DB Diagram can be opened via https://app.diagrams.net/
